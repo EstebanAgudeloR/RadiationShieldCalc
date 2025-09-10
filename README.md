@@ -1,4 +1,6 @@
 # RadiationShieldCalc
+Work in progress, Not everything is perfectly organized yet.
+
 
 ## Overview
 RadiationShieldCalc is a Python program designed to calculate optimal shielding thickness for diagnostic X-ray rooms. The tool applies physics-based formulas to determine barrier dimensions based on factors such as workload, occupancy, material type, and distance from the radiation source.
